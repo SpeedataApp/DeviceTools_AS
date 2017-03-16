@@ -1,1 +1,2 @@
-# DeviceTools_AS
+# Device常用工具类  目前包括串口库 以及串口数据转换工具类
+config.zip 是配置文件使用说明
